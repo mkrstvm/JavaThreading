@@ -1,0 +1,15 @@
+/Users/_mkrs_/MyGit/TestApp/src/bin/Debug/net5.0/src.deps.json
+/Users/_mkrs_/MyGit/TestApp/src/bin/Debug/net5.0/src.runtimeconfig.json
+/Users/_mkrs_/MyGit/TestApp/src/bin/Debug/net5.0/src.runtimeconfig.dev.json
+/Users/_mkrs_/MyGit/TestApp/src/bin/Debug/net5.0/src.dll
+/Users/_mkrs_/MyGit/TestApp/src/bin/Debug/net5.0/ref/src.dll
+/Users/_mkrs_/MyGit/TestApp/src/bin/Debug/net5.0/src.pdb
+/Users/_mkrs_/MyGit/TestApp/src/obj/Debug/net5.0/src.csproj.AssemblyReference.cache
+/Users/_mkrs_/MyGit/TestApp/src/obj/Debug/net5.0/src.GeneratedMSBuildEditorConfig.editorconfig
+/Users/_mkrs_/MyGit/TestApp/src/obj/Debug/net5.0/src.AssemblyInfoInputs.cache
+/Users/_mkrs_/MyGit/TestApp/src/obj/Debug/net5.0/src.AssemblyInfo.cs
+/Users/_mkrs_/MyGit/TestApp/src/obj/Debug/net5.0/src.csproj.CoreCompileInputs.cache
+/Users/_mkrs_/MyGit/TestApp/src/obj/Debug/net5.0/src.dll
+/Users/_mkrs_/MyGit/TestApp/src/obj/Debug/net5.0/ref/src.dll
+/Users/_mkrs_/MyGit/TestApp/src/obj/Debug/net5.0/src.pdb
+/Users/_mkrs_/MyGit/TestApp/src/obj/Debug/net5.0/src.genruntimeconfig.cache
